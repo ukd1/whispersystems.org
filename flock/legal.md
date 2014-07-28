@@ -154,7 +154,7 @@ your usernames and passwords.
 ## 4. PRIVACY POLICY
 
 You agree that Flock Sync's collection, use, retention and disclosure of information connected with your
-account will be governed by [Flock Sync's Privacy Policy](#), which is incorporated into these Terms by
+account will be governed by [Flock Sync's Privacy Policy](#privacy_policy), which is incorporated into these Terms by
 reference.  
 
 ## 5. SOFTWARE LICENSE
