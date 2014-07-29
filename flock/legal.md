@@ -4,7 +4,7 @@ layout: blog
 ---
 ###Open Whisper Systems, LLC
 
-#Privacy Policy
+<h1 id="privacy_policy">Privacy Policy</h1>
 
 Flock provides you with end-to-end encrypted sync for contacts and calendars across Android
 devices. All the content you sync between your devices appears to Flock Sync as an encrypted stream.
